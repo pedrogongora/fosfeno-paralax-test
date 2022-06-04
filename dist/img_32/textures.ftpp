@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "version": "0.6.0"
+  },
+  "savePath": "/home/pedro/Code/Jueguitos/paralax-test/dist/img_32",
+  "images": [
+    {
+      "name": "background.png",
+      "path": "/home/pedro/Code/Jueguitos/paralax-test/dist/img_32/background.png",
+      "folder": ""
+    },
+    {
+      "name": "brick-fall-left.png",
+      "path": "/home/pedro/Code/Jueguitos/paralax-test/dist/img_32/brick-fall-left.png",
+      "folder": ""
+    },
+    {
+      "name": "brick-fall-right.png",
+      "path": "/home/pedro/Code/Jueguitos/paralax-test/dist/img_32/brick-fall-right.png",
+      "folder": ""
+    },
+    {
+      "name": "brick.png",
+      "path": "/home/pedro/Code/Jueguitos/paralax-test/dist/img_32/brick.png",
+      "folder": ""
+    },
+    {
+      "name": "brick2.png",
+      "path": "/home/pedro/Code/Jueguitos/paralax-test/dist/img_32/brick2.png",
+      "folder": ""
+    },
+    {
+      "name": "header.png",
+      "path": "/home/pedro/Code/Jueguitos/paralax-test/dist/img_32/header.png",
+      "folder": ""
+    },
+    {
+      "name": "line.png",
+      "path": "/home/pedro/Code/Jueguitos/paralax-test/dist/img_32/line.png",
+      "folder": ""
+    },
+    {
+      "name": "player.png",
+      "path": "/home/pedro/Code/Jueguitos/paralax-test/dist/img_32/player.png",
+      "folder": ""
+    },
+    {
+      "name": "stars.png",
+      "path": "/home/pedro/Code/Jueguitos/paralax-test/dist/img_32/stars.png",
+      "folder": ""
+    },
+    {
+      "name": "stars2.png",
+      "path": "/home/pedro/Code/Jueguitos/paralax-test/dist/img_32/stars2.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "textures",
+    "textureFormat": "png",
+    "removeFileExtension": false,
+    "prependFolderName": false,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "pixi.js",
+    "fileName": "pack-result",
+    "savePath": "/home/pedro/Code/Jueguitos/paralax-test/dist/img_32",
+    "width": 2048,
+    "height": 2048,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 2,
+    "extrude": 2,
+    "allowRotation": true,
+    "allowTrim": true,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "MaxRectsPacker",
+    "packerMethod": "Smart"
+  }
+}

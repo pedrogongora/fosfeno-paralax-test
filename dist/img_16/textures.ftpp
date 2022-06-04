@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "version": "0.6.0"
+  },
+  "savePath": "/home/pedro/Code/Jueguitos/paralax-test/dist/img_16",
+  "images": [
+    {
+      "name": "background.png",
+      "path": "/home/pedro/Code/Jueguitos/paralax-test/dist/img_16/background.png",
+      "folder": ""
+    },
+    {
+      "name": "brick-fall-left.png",
+      "path": "/home/pedro/Code/Jueguitos/paralax-test/dist/img_16/brick-fall-left.png",
+      "folder": ""
+    },
+    {
+      "name": "brick-fall-right.png",
+      "path": "/home/pedro/Code/Jueguitos/paralax-test/dist/img_16/brick-fall-right.png",
+      "folder": ""
+    },
+    {
+      "name": "brick.png",
+      "path": "/home/pedro/Code/Jueguitos/paralax-test/dist/img_16/brick.png",
+      "folder": ""
+    },
+    {
+      "name": "brick2.png",
+      "path": "/home/pedro/Code/Jueguitos/paralax-test/dist/img_16/brick2.png",
+      "folder": ""
+    },
+    {
+      "name": "header.png",
+      "path": "/home/pedro/Code/Jueguitos/paralax-test/dist/img_16/header.png",
+      "folder": ""
+    },
+    {
+      "name": "player.png",
+      "path": "/home/pedro/Code/Jueguitos/paralax-test/dist/img_16/player.png",
+      "folder": ""
+    },
+    {
+      "name": "stars.png",
+      "path": "/home/pedro/Code/Jueguitos/paralax-test/dist/img_16/stars.png",
+      "folder": ""
+    },
+    {
+      "name": "stars2.png",
+      "path": "/home/pedro/Code/Jueguitos/paralax-test/dist/img_16/stars2.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "textures",
+    "textureFormat": "png",
+    "removeFileExtension": false,
+    "prependFolderName": false,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "pixi.js",
+    "fileName": "pack-result",
+    "savePath": "/home/pedro/Code/Jueguitos/paralax-test/dist/img_16",
+    "width": 2048,
+    "height": 2048,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 2,
+    "extrude": 2,
+    "allowRotation": true,
+    "allowTrim": true,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "MaxRectsPacker",
+    "packerMethod": "Smart"
+  }
+}
