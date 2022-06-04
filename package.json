@@ -1,0 +1,27 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GPL",
+  "devDependencies": {
+    "inspectpack": "^4.2.2",
+    "ts-loader": "^6.0.4",
+    "typescript": "^3.5.3",
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.7",
+    "poly-decomp": "^0.3.0"
+  },
+  "dependencies": {
+    "fosfeno": "file:../fosfeno-local",
+    "matter-js": "^0.14.2",
+    "@types/matter-js": "^0.10.7",
+    "pixi.js": "^5.0.4",
+    "seedrandom": "^3.0.3",
+    "@types/seedrandom": "^2.4.28"
+  }
+}

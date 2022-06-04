@@ -1,0 +1,16 @@
+{
+    "include": [
+        "src/**/*"
+    ],
+    "exclude": [
+        "node_modules"
+    ],
+    "compilerOptions": {
+        "outDir": "./dist/",
+        "sourceMap": true,
+        "moduleResolution": "node",
+        "noImplicitAny": true,
+        "target": "es6",
+        "allowJs": true
+    }
+}
